@@ -8,17 +8,7 @@ Ensure you have Python and Pygame installed on your machine. You can install Pyg
 ```bash
 pip install pygame
 
-Controls
-Press the SPACE key to make the bird flap and navigate through the pipes.
-Dependencies
-Python
-Pygame
-File Structure
-flappy_bird.py: Main Python script containing the Flappy Bird game code.
-bg.png: Background image.
-bird.png: Bird icon image.
-ob1.png and ob2.png: Pipe images.
-cute.mp3, sfx_wing.wav, sfx_point.wav, sfx_hit.wav: Sound files.
+
 
 
 ![image](https://github.com/hassanzafarr/Flappy-Bird/assets/61226227/9c2246af-6993-4f03-a608-5c10fdd7bea1)
